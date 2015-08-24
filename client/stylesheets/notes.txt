@@ -1,0 +1,3 @@
+Microphone project structure
+- /lib for stylesheet libraries like font-awesome/bootstrap
+- global/mixins/variables goes outside

@@ -1,0 +1,7 @@
+Microphone structure
+- Meteor.startup
+- Account control user related thing
+- Publications
+	meteor.publish
+	can publish same collection many times as AllUser/ActiveUser/User(id)
+-views/404 page	

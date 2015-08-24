@@ -1,0 +1,4 @@
+Microphone project stucture
+- footeer/header/index/loading at root views folder
+- each module page with inner folder like /episode , /dashboard
+- also SEO related meta and title set condition refer from this project

@@ -1,0 +1,5 @@
+Microphone project structure
+- collection with its individual file
+- also allow statement of collection inside it
+- use MiniMongoid
+- refere Microphone episodes collection
